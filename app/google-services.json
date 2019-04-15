@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "274830494590",
+    "firebase_url": "https://week12mytodolist.firebaseio.com",
+    "project_id": "week12mytodolist",
+    "storage_bucket": "week12mytodolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274830494590:android:02afbaeaba6d2ef2",
+        "android_client_info": {
+          "package_name": "edu.rvc.student.week12mytodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274830494590-iamvg5v50gvl3gkuhk73aq2salgub99m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rvc.student.week12mytodolist",
+            "certificate_hash": "2f2a69d9183690958d5035a7ad028862adadcf99"
+          }
+        },
+        {
+          "client_id": "274830494590-61gj2lt9dl5845t8gi51n8iop96lkuln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6UsJ4RH6YEb8DMbXRPNvU5rpkqt391M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274830494590-61gj2lt9dl5845t8gi51n8iop96lkuln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
